@@ -1,5 +1,5 @@
 # note-taker
-![Project Image](/assets/projectimage.jpg)
+![Project Image](/public/assets/projectimage.jpg)
 
   ## Description
 
